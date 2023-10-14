@@ -2,6 +2,10 @@
 
 ![image](https://github.com/Zeed-Almelhem/Global-Economic-Insights-Dashboard/assets/142832914/9810c3e0-7bc6-483e-8724-a651510da4c7)
 
+![image](https://github.com/Zeed-Almelhem/Global-Economic-Insights-Dashboard/assets/142832914/5928e2d5-2a8b-4694-8cd7-3d1bb5037552)
+
+![image](https://github.com/Zeed-Almelhem/Global-Economic-Insights-Dashboard/assets/142832914/98d77f43-8f08-4646-91cf-0b12dedb6644)
+
 
 ## Project Description
 
